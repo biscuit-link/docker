@@ -10,7 +10,7 @@ A docker compose file to get you started with Biscuit Link. It is even easier th
 4. `git clone https://github.com/biscuit-link/docker`
 5. Go into `docker` folder.
 6. `sudo docker-compose up`
-7. Visit http://localhost:8080
+7. Visit http://localhost:8032
 8. Done!
 
 ### Do not forget to run PHP Composer in the web directory!
